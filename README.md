@@ -10,7 +10,7 @@ In this project, the client is 10 Academy; the client would like to solve the ch
 
 1. Clone this repository:
 
-   `git clone https://github.com/MubarekHussen/web3-nft-certificate-distribution.git`
+   `git clone https://github.com/gelifatsy/AlgoWeb3NFTProject.git`
 
 2.  Set up Project Environment:
 
