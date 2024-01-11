@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.6.0
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: elias.assamnew@gmail.com
+author_name: elias
+contract_name: calculator
+deployment_language: python
+ide_vscode: true
+preset_name: starter
+project_name: Algorand
+use_python_black: true
+use_python_pytest: false
+
